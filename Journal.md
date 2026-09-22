@@ -6,11 +6,11 @@ During this unit, I became most interested in MPU as it complexity is similarly 
 ## My first prototype
 <img width="4032" height="3024" alt="First Prototype" src="https://github.com/user-attachments/assets/c84cead2-8e0c-4fd2-bac9-119f3cefd640" />
 
-
-
 At first, I want to build measurement system that show how how far an object had been lifted and at what angle it had been tilted. My idea is to used MPU to measure the angle and the location it have been lifted. 
 
 ## Changing concept to the second prototype
+<img width="800" height="514" alt="15-279-WEB" src="https://github.com/user-attachments/assets/832fdc33-6853-4815-97f6-7aabc98fe0a8" />
+
 
 While researching sensors and thinking about how I could make the project more meaningful and impactful, I realized that the MPU-6050 could be used to measure orientation and tilt. Instead of only measuring an object being lifted, after brainstroming the idea, I came out with "human posture".
 
