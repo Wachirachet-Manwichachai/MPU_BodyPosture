@@ -114,7 +114,6 @@ Possible future improvements include:
 * Make it wireless by using bluetooth
 * Creating a historical dashboard for analysis
 * Add vibration or buzzer for posture alerts
-* 
 
 ## Project Structure
 
