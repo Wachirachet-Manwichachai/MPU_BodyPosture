@@ -125,4 +125,5 @@ Posture-Monitoring/
 ```
 ## Resources
 https://www.youtube.com/watch?v=7VW_XVbtu9k
+
 http://nxp.com/docs/en/application-note/AN3461.pdf
