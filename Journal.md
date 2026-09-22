@@ -1,5 +1,5 @@
-* Innovator Journal — Posture Monitoring System
-** 1. Starting Point: What I Built On
+# Innovator Journal — Posture Monitoring System
+## 1. Starting Point: What I Built On
 
 During this unit, I became most interested in analog input because I wanted to understand how Arduino could read physical information from the real world rather than simply turning an LED on or off.
 
