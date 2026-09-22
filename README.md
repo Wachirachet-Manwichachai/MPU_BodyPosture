@@ -46,7 +46,7 @@ The LCD uses a parallel interface connected to Arduino digital pins.
 
 ## Angle Calculation
 
-The project currently uses the **accelerometer** portion of the MPU-6050. The gyroscope is not used.
+The project currently uses the **accelerometer** of the MPU-6050. The gyroscope is not included.
 
 The raw acceleration measurements are converted into acceleration in terms of `g` and then used to calculate the pitch angle:
 
