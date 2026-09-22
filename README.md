@@ -22,16 +22,16 @@ The system then continuously measures the user's current angles and calculates h
    * **Bad**
 8. The results are displayed on the LCD and sent to the Serial Monitor.
 
-## 🔧 Components
+## Components
 
-* Arduino
+* Arduino Uno
 * 2 × MPU-6050
 * 16×2 LCD Display
 * Jumper wires
 * Breadboard
-* Power supply
+* Uploading Cable
 
-## 📡 Communication
+## Communication
 
 The two MPU-6050 sensors communicate with the Arduino using **I²C**.
 
