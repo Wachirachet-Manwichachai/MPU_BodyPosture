@@ -17,7 +17,6 @@ The system then continuously measures the user's current angles and calculates h
 5. The Arduino calculates the **pitch angle** using the X, Y, and Z acceleration values.
 6. The current angle is compared with the calibration baseline.
 7. The angular deviation is classified as:
-
    * **Good**
    * **Medium**
    * **Bad**
