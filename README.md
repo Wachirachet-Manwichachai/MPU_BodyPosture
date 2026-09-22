@@ -109,7 +109,6 @@ Upper_Raw: -12.40 | Upper_Dev: 18.20 || Lower_Raw: 5.30 | Lower_Dev: 7.10
 ## Future Improvements
 
 Possible future improvements include:
-
 * Make it more economically fit the sitting body posture
 * Make it wireless by using bluetooth
 * Creating a historical dashboard for analysis
@@ -125,3 +124,5 @@ Posture-Monitoring/
 └── Journal.md
 ```
 ## Resources
+https://www.youtube.com/watch?v=7VW_XVbtu9k
+http://nxp.com/docs/en/application-note/AN3461.pdf
