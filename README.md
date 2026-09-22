@@ -44,7 +44,7 @@ Because both sensors are the same device, they use different I²C addresses:
 
 The LCD uses a parallel interface connected to Arduino digital pins.
 
-## 📐 Angle Calculation
+## Angle Calculation
 
 The project currently uses the **accelerometer** portion of the MPU-6050. The gyroscope is not used.
 
@@ -60,7 +60,7 @@ The calculated angle is compared with the angle recorded during calibration.
 Deviation = |Current Angle − Baseline Angle|
 ```
 
-## 🚦 Posture Classification
+## Posture Classification
 
 The system uses different thresholds for the upper and lower back.
 
@@ -82,7 +82,7 @@ The system uses different thresholds for the upper and lower back.
 
 These thresholds are configurable in the Arduino code.
 
-## 🖥️ Example LCD Output
+## Example LCD Output
 
 ```text
 U:12.5°   Good
