@@ -3,8 +3,13 @@
 
 During this unit, I became most interested in MPU as it complexity is similarly to matrix as their 3 axis where I learning the basic at this time, which linked my interest into MPU. As I also pick LCD display to used it into motoring real time information with limitation on the representation with only 16x2 spaces.
 
-## My Original Idea:
+## My Original Idea
 
+At first, I want to build measurement system that show how how far an object had been lifted and at what angle it had been tilted. My idea is to used MPU to measure the angle and the location it have been lifted. 
+
+## Changing the Idea
+
+While researching sensors and thinking about how I could make the project more meaningful and impactful, I realized that the MPU-6050 could be used to measure orientation and tilt. Instead of only measuring an object being lifted, after brainstroming the idea, I came out with "human posture".
 
 
 ## 2. New Component
@@ -19,23 +24,17 @@ What I researched
 
 I researched:
 
-MPU-6050 pin configuration
+MPU-6050 + LCD display 16x2 pin configuration 
 I²C communication
 MPU-6050 register addresses
 Accelerometer measurements
 Calculating pitch from X, Y, and Z acceleration
-Arduino Wire.h communication
-3. My Goal
+## 3. My Goal
 
-My goal was to create a system that could measure how much a person's posture changes from a calibrated sitting position.
+My goal was to create a system that could measure the orientation of two parts of the back:
+* Upper back
+* Lower back
 
-The system would:
-
-Ask the user to sit straight.
-Record the initial angles.
-Continuously measure the current angles.
-Calculate the difference from the original position.
-Display the result as Good, Medium, or Bad.
 4. What I Tried
 First Attempt
 
