@@ -3,7 +3,7 @@
 
 During this unit, I became most interested in MPU as it complexity is similarly to matrix as their 3 axis where I learning the basic at this time, which linked my interest into MPU. As I also pick LCD display to used it into motoring real time information with limitation on the representation with only 16x2 spaces.
 
-# My Original Idea:
+## My Original Idea:
 
 
 
