@@ -1,4 +1,5 @@
 # Posture Monitoring System
+<img width="5617" height="2415" alt="Second prototype" src="https://github.com/user-attachments/assets/77af4ad8-f7e4-42b2-a6ee-84c5152b8b21" />
 
 An Arduino posture monitoring system that uses **two MPU-6050 accelerometer sensors** to measure the orientation of the upper and lower back and provide real-time posture feedback through a **16×2 LCD display**.
 
