@@ -106,25 +106,15 @@ Example:
 Upper_Raw: -12.40 | Upper_Dev: 18.20 || Lower_Raw: 5.30 | Lower_Dev: 7.10
 ```
 
-## Project Goals
-
-* Learn how to communicate with multiple I²C sensors.
-* Apply accelerometer data to calculate orientation.
-* Develop a real-time embedded monitoring system.
-* Practice sensor calibration and threshold-based classification.
-* Explore applications of sensors in health and human-motion monitoring.
-
 ## Future Improvements
 
 Possible future improvements include:
 
-* Using the MPU-6050 gyroscope together with the accelerometer.
-* Implementing a complementary filter or other sensor-fusion method.
-* Averaging multiple measurements during calibration.
-* Adding a buzzer or vibration motor for posture alerts.
-* Adding data logging for long-term posture analysis.
-* Creating a computer or mobile dashboard for posture history.
-* Making the system wireless using Bluetooth or Wi-Fi.
+* Make it more economically fit the sitting body posture
+* Make it wireless by using bluetooth
+* Creating a historical dashboard for analysis
+* Add vibration or buzzer for posture alerts
+* 
 
 ## Project Structure
 
@@ -133,6 +123,5 @@ Posture-Monitoring/
 │
 ├── Posture-Monitoring.ino
 ├── README.md
-└── images/
-    └── project.jpg
+└── Journal.md
 ```
