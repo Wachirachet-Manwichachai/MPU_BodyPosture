@@ -136,7 +136,3 @@ Posture-Monitoring/
 └── images/
     └── project.jpg
 ```
-
-## ⚠️ Disclaimer
-
-This project is an educational prototype for monitoring posture and is not a medical device. The angle thresholds are experimental values and should not be interpreted as medical recommendations.
