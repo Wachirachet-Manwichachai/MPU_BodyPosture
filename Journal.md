@@ -1,11 +1,9 @@
 # Innovator Journal — Posture Monitoring System
 ## 1. Starting Point: What I Built On
 
-During this unit, I became most interested in analog input because I wanted to understand how Arduino could read physical information from the real world rather than simply turning an LED on or off.
+During this unit, I became most interested in MPU as it complexity is similarly to matrix as their 3 axis where I learning the basic at this time, which linked my interest into MPU. As I also pick LCD display to used it into motoring real time information with limitation on the representation with only 16x2 spaces.
 
-I wanted to take this idea further by using a sensor that could measure physical orientation and movement. This led me to explore the MPU-6050 accelerometer/gyroscope module.
-
-2. New Component
+## 2. New Component
 
 For this project, I chose the MPU-6050 accelerometer/gyroscope module.
 
