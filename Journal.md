@@ -37,7 +37,7 @@ Eventhough the code is working, I wonder why is work as I deeply learning from e
 ## 6. Peer Support
 I helped Sean to connect LCD display, where I show him step by step of checking where is the problem and why is it not working. Additionally, this weekend I also helped him fix his broken LCD display, but this problem is weird as the light is on but the letter showed. I checked the wiring for LCD display but there's nothing wrong, so I shifted to what component he have that might interupted LCD. Which he used motor where the wiring is fine, so I checked the code where he seem didn't include motor into the code yet, that might be the reason why it is not working. This show me that the problem might not come from itself rather than something that work together and might end up be the problem itself.
 
-## 7 . Reflection
+## 7. Reflection
 
 What kind of problem or situation could this input or output be useful for, and for whom?
 What would need to change or be added to your current build to actually be useful in that situation?
