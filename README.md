@@ -1,16 +1,16 @@
 # Posture Monitoring System
 
-An Arduino-based posture monitoring system that uses **two MPU-6050 accelerometer sensors** to measure the orientation of the upper and lower back and provide real-time posture feedback through a **16×2 LCD display**.
+An Arduino posture monitoring system that uses **two MPU-6050 accelerometer sensors** to measure the orientation of the upper and lower back and provide real-time posture feedback through a **16×2 LCD display**.
 
-## 📌 Project Overview
+## Project Overview
 
-This project was designed to monitor sitting posture by measuring the angle of different parts of the back. During startup, the user sits in their desired posture while the system performs a short calibration. The measured angles are saved as the **baseline posture**.
+This project was designed to monitor sitting posture by measuring the angle of different parts of the back(upper and lower). During startup, the user sits in their desired posture while the system performs a short 5s calibration.
 
-The system then continuously measures the user's current angles and calculates how far they have deviated from the calibrated position.
+The system then continuously measures the user's current angles and calculates how far they have deviated from the initiated position.
 
-## ⚙️ How It Works
+## How It Works
 
-1. The Arduino initializes the two MPU-6050 sensors and the LCD.
+1. The Arduino initializes the two MPU-6050 sensors and the LCD display.
 2. The user sits in their desired posture during a **5-second calibration**.
 3. The system records the upper- and lower-back angles as baseline values.
 4. The accelerometers continuously measure the current orientation.
