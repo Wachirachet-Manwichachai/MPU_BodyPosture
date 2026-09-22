@@ -4,7 +4,8 @@
 During this unit, I became most interested in MPU as it complexity is similarly to matrix as their 3 axis where I learning the basic at this time, which linked my interest into MPU. As I also pick LCD display to used it into motoring real time information with limitation on the representation with only 16x2 spaces.
 
 ## My first prototype
-<img width="3024" height="4032" alt="First Prototype" src="https://github.com/user-attachments/assets/029c5418-7484-4702-820e-5b5d4496428c" />
+<img width="4032" height="3024" alt="First Prototype" src="https://github.com/user-attachments/assets/c84cead2-8e0c-4fd2-bac9-119f3cefd640" />
+
 
 
 At first, I want to build measurement system that show how how far an object had been lifted and at what angle it had been tilted. My idea is to used MPU to measure the angle and the location it have been lifted. 
