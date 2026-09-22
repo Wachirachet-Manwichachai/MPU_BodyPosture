@@ -124,3 +124,4 @@ Posture-Monitoring/
 ├── README.md
 └── Journal.md
 ```
+## Resources
