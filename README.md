@@ -96,7 +96,7 @@ U:24.7°   Medium
 L:12.1°   Medium
 ```
 
-## 💻 Serial Monitor
+## Serial Monitor
 
 The Arduino also outputs the raw calculated angles and deviations for debugging and analysis.
 
@@ -106,7 +106,7 @@ Example:
 Upper_Raw: -12.40 | Upper_Dev: 18.20 || Lower_Raw: 5.30 | Lower_Dev: 7.10
 ```
 
-## 🎯 Project Goals
+## Project Goals
 
 * Learn how to communicate with multiple I²C sensors.
 * Apply accelerometer data to calculate orientation.
@@ -114,7 +114,7 @@ Upper_Raw: -12.40 | Upper_Dev: 18.20 || Lower_Raw: 5.30 | Lower_Dev: 7.10
 * Practice sensor calibration and threshold-based classification.
 * Explore applications of sensors in health and human-motion monitoring.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible future improvements include:
 
@@ -126,7 +126,7 @@ Possible future improvements include:
 * Creating a computer or mobile dashboard for posture history.
 * Making the system wireless using Bluetooth or Wi-Fi.
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Posture-Monitoring/
