@@ -119,9 +119,9 @@ Possible future improvements include:
 ```text
 Posture-Monitoring/
 │
-├── Posture-Monitoring.ino
-├── README.md
-└── Journal.md
+├── Journal.md
+├── MPU_BodyPosture.ino
+└── README.mdJournal.md
 ```
 ## Resources
 https://www.youtube.com/watch?v=7VW_XVbtu9k
