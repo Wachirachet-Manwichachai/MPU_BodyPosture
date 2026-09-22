@@ -57,7 +57,7 @@ Pitch = atan2(-X, √(Y² + Z²)) × 180 / π
 The calculated angle is compared with the angle recorded during calibration.
 
 ```text
-Deviation = |Current Angle − Baseline Angle|
+Deviation = |Current Angle − Reference Angle|
 ```
 
 ## Posture Classification
