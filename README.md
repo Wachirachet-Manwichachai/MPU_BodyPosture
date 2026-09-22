@@ -48,10 +48,10 @@ The LCD uses a parallel interface connected to Arduino digital pins.
 
 The project currently uses the **accelerometer** of the MPU-6050. The gyroscope is not included.
 
-The raw acceleration measurements are converted into acceleration in terms of `g` and then used to calculate the pitch angle:
+The raw acceleration measurements are converted into acceleration in terms of `g` and then used to calculate the pitch angle(y-axis):
 
 ```text
-Pitch = atan2(X, √(Y² + Z²)) × 180 / π
+Pitch = atan2(-X, √(Y² + Z²)) × 180 / π
 ```
 
 The calculated angle is compared with the angle recorded during calibration.
